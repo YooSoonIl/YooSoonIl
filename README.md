@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, I'm SoonIl 👋
+
+Nice to meet you! Enjoy my github😊
 
 <!--
 **yoosoonil/yoosoonil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
