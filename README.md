@@ -7,9 +7,9 @@
 
 <br>
 
-Hello, I'm SoonIl. 👋
-Nice to meet you! Enjoy my github😊
-I am trying to become a Backend-developer.
+<p>Hello, I'm SoonIl👋</p>
+<p>Nice to meet you! Enjoy my github😊</p>
+<p>I am trying to become a Backend-developer.</p>
 
 <br>
 
