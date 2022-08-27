@@ -12,6 +12,7 @@
 <p>I am trying to become a Backend-developer.</p>
 
 <br>
+<br>
 
 <h3 align="center">I'm studying Tech Stack 📚</h3>
 <p align="center">
@@ -23,6 +24,7 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
  </p>
 
+<br>
 <br>
 
  ![yoosoonil's github stats](https://github-readme-stats.vercel.app/api?username=yoosoonil&show_icons=true&theme=radical)
