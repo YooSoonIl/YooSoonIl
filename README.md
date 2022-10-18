@@ -1,7 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Soonil's%20GitHub&fontSize=65&animation=scaleIn)
-
-<br>
-
 <div align=center>
   <p>Hello, I'm SoonIl👋</p>
   <p>Nice to meet you! Enjoy my github😊</p>
