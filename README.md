@@ -11,9 +11,9 @@
 <h3 align="center">Tech Stack⚔️</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
  </p>
