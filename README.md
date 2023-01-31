@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
  </p>
